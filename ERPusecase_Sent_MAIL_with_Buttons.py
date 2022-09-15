@@ -85,11 +85,11 @@ def sentmail():
         <v:fill type="gradientradial" color="transparent" color2="#112EED" focus="0" focusposition=".05,0.23" focussize=".9,0.25" />
     </v:roundrect>
         
-    <v:roundrect href="https://skydrive3m.sharepoint.com/:f:/r/teams/ProjectAlpineExecution/Shared%20Documents/Service%20Management%20Office/QualityTools/Quality%20Review%20-%20Files%20to%20Audit?csf=1&web=1&e=mjtKPr" style="width:220px;height:40px;position:relative;top:0;left:0;v-text-anchor:middle;" arcsize="50%" stroke="f" fillcolor="#964B00" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+    <v:roundrect href="microsoft-edge:https://skydrive3m.sharepoint.com/:f:/r/teams/ProjectAlpineExecution/Shared%20Documents/Service%20Management%20Office/QualityTools/Quality%20Review%20-%20Files%20to%20Audit?csf=1&web=1&e=mjtKPr" style="width:220px;height:40px;position:relative;top:0;left:0;v-text-anchor:middle;" arcsize="50%" stroke="f" fillcolor="#964B00" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
         <w:anchorlock/>
         <v:textbox inset="0,0,0,0">
         <center>
-    <a href="https://skydrive3m.sharepoint.com/:f:/r/teams/ProjectAlpineExecution/Shared%20Documents/Service%20Management%20Office/QualityTools/Quality%20Review%20-%20Files%20to%20Audit?csf=1&web=1&e=mjtKPr" style="font-family: Helvetica, sans-serif;font-size: 14px;margin: 0;padding: 0 24px;color: #ffffff;margin-top: 0;font-weight: bold;line-height: 40px;letter-spacing: 0.1ch;text-transform: uppercase;background-color: #964B00;border-radius: 5000px;box-shadow: 0 8px 14px 2px #f45c2324, 0 6px 20px 5px #f45c231f, 0 8px 10px -5px #f45c2333;display: inline-block;text-align: center;text-decoration: none;white-space: nowrap;-webkit-text-size-adjust: none">Sharepoint</a>
+    <a href="microsoft-edge:https://skydrive3m.sharepoint.com/:f:/r/teams/ProjectAlpineExecution/Shared%20Documents/Service%20Management%20Office/QualityTools/Quality%20Review%20-%20Files%20to%20Audit?csf=1&web=1&e=mjtKPr" style="font-family: Helvetica, sans-serif;font-size: 14px;margin: 0;padding: 0 24px;color: #ffffff;margin-top: 0;font-weight: bold;line-height: 40px;letter-spacing: 0.1ch;text-transform: uppercase;background-color: #964B00;border-radius: 5000px;box-shadow: 0 8px 14px 2px #f45c2324, 0 6px 20px 5px #f45c231f, 0 8px 10px -5px #f45c2333;display: inline-block;text-align: center;text-decoration: none;white-space: nowrap;-webkit-text-size-adjust: none">Sharepoint</a>
         </center>
         </v:textbox>
     </v:roundrect>
